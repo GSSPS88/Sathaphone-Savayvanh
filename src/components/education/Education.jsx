@@ -19,7 +19,7 @@ const Education = () => {
                     <div className="education__data">
 
                         <div>
-                            <h3 className="education__title">Primary Scool</h3>
+                            <h3 className="education__title">Primary School</h3>
                             <span className="education__subtitle">Mina Primary Scool</span>
                             <div className="education__calender">
                             <i class="bi bi-calendar"></i>
