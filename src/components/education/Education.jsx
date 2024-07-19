@@ -20,7 +20,7 @@ const Education = () => {
 
                         <div>
                             <h3 className="education__title">Primary School</h3>
-                            <span className="education__subtitle">Mina Primary Scool</span>
+                            <span className="education__subtitle">Mina Primary School</span>
                             <div className="education__calender">
                             <i class="bi bi-calendar"></i>
                             2009-2014
