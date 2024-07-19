@@ -55,43 +55,6 @@
     top: 1rem;
 }
 
-.home__description {
-    width: 100%;
-    letter-spacing: 1px;
-    margin-bottom: var(--mb-2-5);
-    position: relative;
-}
-.home__description::after {
-    content: '';
-    position: absolute;
-    background: var(--body-color);
-    left: 0;
-    overflow: hidden;
-    height: 100%;
-    width: 100%;
-    border-left: 2px solid var(--title-color);
-    animation: typing 2s 1 steps(28) forwards, cursor .4s 1 step-end;
-    z-index: 11;
-}
-
-@keyframes cursor {
-
-    50% {
-        border-color: transparent;
-    }
-
-}
-
-@keyframes typing {
-    0% {
-        border-width: 2px;
-    }
-    100% {
-        border-width: 0px;
-        left: 100%;
-    }
-}
-
 .home__img {
     background: url(../../assets/mypt.jpeg);
     background-repeat: no-repeat;
