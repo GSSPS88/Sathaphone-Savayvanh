@@ -83,7 +83,7 @@
     color: var(--title-color);
 }
 
-.home__scroll-name {
+.footer__scroll-name {
     font-weight: var(--font-medium);
     margin-right: var(--mb-0-25);
     margin-left: 2px;
