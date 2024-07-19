@@ -82,6 +82,11 @@
     justify-content: center;
     color: var(--title-color);
 }
+.footer__scroll-name {
+    font-weight: var(--font-medium);
+    margin-right: var(--mb-0-25);
+    margin-left: 2px;
+}
 
 .footer__scroll-button {
     position: relative;
