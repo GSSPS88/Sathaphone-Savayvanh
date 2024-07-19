@@ -77,7 +77,7 @@ const Education = () => {
                         </div>
 
                         <div>
-                            <h3 className="education__title">Faculty of Engineering</h3>
+                            <h3 className="education__title">Bachelor's degree</h3>
                             <span className="education__subtitle">Information Technology</span>
                             <div className="educatio__calender">
                                 <i class="bi bi-calendar"></i>
