@@ -1,6 +1,7 @@
 import React from 'react'
 import "./about.css"
 import Mypic from "../../assets/mypic.png"
+import CV from "../../assets/Sathaphone CV.png"
 import Info from './Info'
 const About = () => {
   return (
@@ -31,7 +32,7 @@ const About = () => {
                     how to work as a developer.
                 </p>
 
-                <a download="" href="" className="button button--flex">
+                <a download="" href={CV} className="button button--flex">
                     Download CV
 
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-file-earmark-text" viewBox="0 0 16 16">
